@@ -1,4 +1,4 @@
-# STM32 Frequency Counter Project
+# STM32 Frequency Counter Project (Ongoing)
 
 ## 📌 Project Overview
 A high-precision frequency counter developed on the **STM32F411CEU6 (Black Pill)** using C and the Hardware Abstraction Layer (HAL). This project utilizes Timer Input Capture for frequency measurement and I2C for data visualization.
